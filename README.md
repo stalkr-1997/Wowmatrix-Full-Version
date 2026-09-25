@@ -243,4 +243,4 @@ This repository serves as the official landing page for WowMatrix. The software 
 **Get the most recent version of WowMatrix today!**
 
 ---
-**Last updated:** 2026-09-25 13:29:38 UTC
+**Last updated:** 2026-09-25 18:23:32 UTC
